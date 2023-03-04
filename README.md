@@ -15,7 +15,7 @@ ___
 ___
 ### LINKS
 
-> DEMO URL: [CLICK](https://fierce-savannah-86792.herokuapp.com/ "Heroku Link Demo")
+
 
 > DOWNLOAD: [CLICK](https://github.com/subhranshuchoudhury/todolist/archive/refs/heads/main.zip "Download Project")
 
@@ -36,4 +36,4 @@ ___
 
 ___
 
-##### Subhranshu Choudhury, Angela YU Course Project.
+##### Anshuman Panda , Angela YU Course Project.
